@@ -32,7 +32,7 @@
             echo "
              <script>
                  alert('Login Berhasil');
-                 window.location='input-datanilai.php';
+                 window.location='input-datakwu.php';
              </script>
              ";
         }else{
